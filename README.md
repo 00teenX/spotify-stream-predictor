@@ -6,4 +6,5 @@ Diese Datei enthält Daten zu Songs, die zwischen 2017 und 2021 in den Spotify-C
 ## Datenschutz und Lizenz
 Dieser Datensatz enthält keine persönlichen Daten, sondern nur Songtitel, Künstlernamen, Chartplatzierungen und Streaming-Zahlen. Daher gibt es keine Datenschutzprobleme wie bei der DSGVO. Der ursprüngliche Datensatz wurde unter der Open Database License (ODbL) veröffentlicht und stammt von Kaggle:
 Spotify Charts Dataset (2017–2021) – Kaggle: https://www.kaggle.com/datasets/dhruvildave/spotify-charts/data
+
 Die Nutzung ist frei, solange die Quelle angegeben wird. Da die Daten anonym sind, sind keine weiteren Schutzmassnahmen erforderlich.
