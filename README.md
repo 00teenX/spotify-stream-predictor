@@ -1,11 +1,10 @@
 # spotify-stream-predictor
 
 ## Beschreibung des Datensatzes 
-Diese Datei enthält Daten zu Songs, die zwischen 2017 und 2021 in den Spotify-Charts standen. Jeder Eintrag zeigt den Titel des Songs, den Künstler, das Datum, die Chartplatzierung, das Land sowie die Anzahl der Streams. Die Datei wurde auf 10.000 Zeilen verkleinert, damit sie leichter zu nutzen ist. Mit diesen Daten kann man untersuchen, welche Lieder besonders beliebt waren, ob bestimmte Künstler oft in den Charts waren oder ob es Trends im Musikgeschmack gibt.
+Dieser Datensatz enthält Informationen zu Spotify-Songs aus verschiedenen Genres. Jeder Eintrag enthält den Songtitel, den Künstler, das Album, die Popularität (0-100), die Dauer in Millisekunden und verschiedene musikalische Eigenschaften wie Tanzbarkeit, Energie, Lautstärke und Tempo. Zusätzlich gibt es Angaben dazu, ob ein Song explizite Inhalte hat oder instrumental ist. Diese Daten können genutzt werden, um Musiktrends zu analysieren, beliebte Songs zu identifizieren oder Muster in den Audio-Eigenschaften verschiedener Genres zu entdecken.
 
 ## Datenschutz und Lizenz
-Dieser Datensatz enthält keine persönlichen Daten, sondern nur Songtitel, Künstlernamen, Chartplatzierungen und Streaming-Zahlen. Daher gibt es keine Datenschutzprobleme wie bei der DSGVO. Der ursprüngliche Datensatz wurde unter der Open Database License (ODbL) veröffentlicht und stammt von Kaggle:
+Der Datensatz enthält keine persönlichen Daten von Spotify-Nutzern, sondern nur Informationen über Songs und ihre Eigenschaften. Damit gibt es keine Datenschutzprobleme, z. B. mit der DSGVO. Die Daten stammen von Kaggle und sind unter der Open Database License (ODbL) verfügbar. Das bedeutet, dass sie frei genutzt werden dürfen, solange die Quelle genannt wird:
+https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
-Spotify Charts Dataset (2017–2021) – Kaggle: https://www.kaggle.com/datasets/dhruvildave/spotify-charts/data
-
-Die Nutzung ist frei, solange die Quelle angegeben wird. Da die Daten anonym sind, sind keine weiteren Schutzmassnahmen erforderlich.
+Da die Daten anonym sind, sind keine zusätzlichen Schutzmassnahmen notwendig.
