@@ -5,6 +5,7 @@ Dieser Datensatz enthält Informationen zu Spotify-Songs aus verschiedenen Genre
 
 ## Datenschutz und Lizenz
 Der Datensatz enthält keine persönlichen Daten von Spotify-Nutzern, sondern nur Informationen über Songs und ihre Eigenschaften. Damit gibt es keine Datenschutzprobleme, z. B. mit der DSGVO. Die Daten stammen von Kaggle und sind unter der Open Database License (ODbL) verfügbar. Das bedeutet, dass sie frei genutzt werden dürfen, solange die Quelle genannt wird:
+
 https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
 Da die Daten anonym sind, sind keine zusätzlichen Schutzmassnahmen notwendig.
